@@ -1,0 +1,13 @@
+C:\Users\Waseem's PC\Documents\c#\BoxingAndUnboxing\bin\Debug\netcoreapp3.1\BoxingAndUnboxing.exe
+C:\Users\Waseem's PC\Documents\c#\BoxingAndUnboxing\bin\Debug\netcoreapp3.1\BoxingAndUnboxing.deps.json
+C:\Users\Waseem's PC\Documents\c#\BoxingAndUnboxing\bin\Debug\netcoreapp3.1\BoxingAndUnboxing.runtimeconfig.json
+C:\Users\Waseem's PC\Documents\c#\BoxingAndUnboxing\bin\Debug\netcoreapp3.1\BoxingAndUnboxing.runtimeconfig.dev.json
+C:\Users\Waseem's PC\Documents\c#\BoxingAndUnboxing\bin\Debug\netcoreapp3.1\BoxingAndUnboxing.dll
+C:\Users\Waseem's PC\Documents\c#\BoxingAndUnboxing\bin\Debug\netcoreapp3.1\BoxingAndUnboxing.pdb
+C:\Users\Waseem's PC\Documents\c#\BoxingAndUnboxing\obj\Debug\netcoreapp3.1\BoxingAndUnboxing.csprojAssemblyReference.cache
+C:\Users\Waseem's PC\Documents\c#\BoxingAndUnboxing\obj\Debug\netcoreapp3.1\BoxingAndUnboxing.AssemblyInfoInputs.cache
+C:\Users\Waseem's PC\Documents\c#\BoxingAndUnboxing\obj\Debug\netcoreapp3.1\BoxingAndUnboxing.AssemblyInfo.cs
+C:\Users\Waseem's PC\Documents\c#\BoxingAndUnboxing\obj\Debug\netcoreapp3.1\BoxingAndUnboxing.csproj.CoreCompileInputs.cache
+C:\Users\Waseem's PC\Documents\c#\BoxingAndUnboxing\obj\Debug\netcoreapp3.1\BoxingAndUnboxing.dll
+C:\Users\Waseem's PC\Documents\c#\BoxingAndUnboxing\obj\Debug\netcoreapp3.1\BoxingAndUnboxing.pdb
+C:\Users\Waseem's PC\Documents\c#\BoxingAndUnboxing\obj\Debug\netcoreapp3.1\BoxingAndUnboxing.genruntimeconfig.cache
